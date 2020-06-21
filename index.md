@@ -12,4 +12,4 @@ Gab kuerzlich eine Serie auf Amazon Prime, wo Picard als pensionierter Captain s
 > Make it so!
 
 ## Bild
-![Jean-Luc Picard](http://www.marniemaclean.com/words/2012/11/18/images/Jean-Luc-Picard-jean-luc-picard-24183235-675-859.jpeg)
+<img src="http://www.marniemaclean.com/words/2012/11/18/images/Jean-Luc-Picard-jean-luc-picard-24183235-675-859.jpeg"/>
