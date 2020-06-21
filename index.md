@@ -7,3 +7,6 @@ Gab kürzlich eine Serie auf Amazon Prime, wo Picard als pensionierter Captain s
 * nachdenklich
 * belesen
 * weitgereist 
+
+## Zitat
+> Make it so!
